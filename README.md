@@ -1,6 +1,6 @@
-- 👋 Hi, I’m <strong>Omar Ezeldin</strong>
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS
+- Hi, Omar Ezeldin here. 👋
+- I like hacking apps and operating systems. ⚔
+- Working on a blog. 🚧
 
 <!---
 omar-ezeldin/omar-ezeldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
