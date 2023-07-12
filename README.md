@@ -1,24 +1,16 @@
-### Hi, I am Omar Ezeldin 👋
----
-I am a web developer
+# Hi, I am Omar Ezeldin 👋
 
-```js
-function add(num1, num2) {
-    if (num1 == 0 && num2 ==0) {
-        return 0
-    }else {
-        return num1 + num2;
-    }
-}
-```
+I am Omar Ezeldin, started programming when I was 11. I like creating Websites and Webapps.
 
-```python
-def add(num1, num2):
-    if num1 == 0:
-        return num2
-    elif num2 == 0:
-        return num1
-    else:
-        return num1 + num2
-```
+## 💪 Skills
+- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+- 🎨 CSS
+- 
+
+## 🔧 Tools
+
+
+
+
+
 
