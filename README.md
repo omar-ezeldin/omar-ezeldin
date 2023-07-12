@@ -1,16 +1,12 @@
 # Hi, I am Omar Ezeldin 👋
 
-I am Omar Ezeldin, started programming when I was 11. I like creating Websites and Webapps.
+I am Omar Ezeldin, started programming when I was 11. I like creating websites and webapps.
 
 ## 💪 Skills
-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-- 🎨 CSS
-- 
-
-## 🔧 Tools
-
-
-
-
-
+* [x] HTML
+* [x] CSS
+* [x] Javascript
+* [x] ReactJS
+* [x] Git & Github
+* [ ] NextJS
 
